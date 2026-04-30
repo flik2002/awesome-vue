@@ -917,6 +917,7 @@ _Set of admin template_
 - [vue-notion](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 - [Fes.js](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI-powered AI monitoring dashboard built with Vue 3 + Element Plus. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
 ### UI Layout
 
 _Layout for the overall / main view_
